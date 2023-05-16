@@ -9,7 +9,7 @@ public class Order {
     int quantity;
 
     public Order(int oid, int quantity) {
-        this.oid = oid;
+        this.oid = oid;gi
         this.quantity = quantity;
     }
 
